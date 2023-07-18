@@ -1,0 +1,53 @@
+.title {
+  text-align: center;
+  border-bottom: 2px solid;
+}
+.contact {
+  text-align: center;
+  border-bottom: 2px solid;
+}
+h2 {
+  text-align: center;
+}
+h2:hover {
+  color: green;
+}
+strong {
+  text-align: justify;
+  display: block;
+}
+li {
+  list-style: none;
+}
+.cat {
+  margin: 0 auto;
+  border-bottom: 2px solid;
+}
+.sns {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  border-top: 2px solid;
+  border-bottom: 2px solid;
+}
+.center {
+  display: block;
+  margin: 0 auto;
+}
+.name {
+  text-align: center;
+  font-weight: bold;
+  border-top: 2px solid;
+  border-bottom: 2px solid;
+}
+.college {
+  text-align: center;
+  font-style: italic;
+}
+.card {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  border: 2px solid;
+}
